@@ -4,4 +4,5 @@ public class Me {
 String  b="Mynamess";
 //icile code
 String  Menn="Essyer";
+String myName;
 }
