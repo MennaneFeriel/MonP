@@ -5,4 +5,6 @@ String  b="Mynamess";
 //icile code
 int x,y;
 
+String myName;
+
 }
