@@ -1,5 +1,5 @@
 
 public class Me {
-	int a =0;
-String  a="Mynamess";
+int a =0;
+String  b="Mynamess";
 }
