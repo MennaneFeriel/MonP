@@ -2,9 +2,8 @@
 public class Me {
 	int a =0;
 String  b="Mynamess";
-//icile code
-
-
-String myName="coucou";
-
+String  Menn="coucou";
+public void Me() {
+	
+}
 }
