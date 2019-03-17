@@ -4,6 +4,7 @@ public class Me {
 String  b="Mynamess";
 String  Menn="coucou";
 public void Me() {
+	int a,b;
 	
 }
 }
