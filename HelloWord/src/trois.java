@@ -1,4 +1,5 @@
 
 public class trois {
-int a, x ;
+int a, x ,z;
+
 }
