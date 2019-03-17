@@ -5,6 +5,6 @@ String  b="Mynamess";
 //icile code
 
 
-String myName;
+String myName="coucou";
 
 }

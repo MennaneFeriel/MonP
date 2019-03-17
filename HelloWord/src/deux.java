@@ -1,7 +1,7 @@
 
 public class deux {
 	int a ;int b;
-boolean t;
+boolean t=true;
 String h;
 short mr;
 
